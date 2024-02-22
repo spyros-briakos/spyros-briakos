@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **Mitel** as a Software Engineer, previously I was part of Atos@Greece.
 
-- 🌱 I’m currently learning about **LLMs and RAG techniques**.
+- 🌱 I’m currently learning about **LLMs and RAG technique**.
   
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">Tech Stack</h3>
 
 ###
 
