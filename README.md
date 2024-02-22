@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Spyros Briakos and I'm a Software Engineer from Greece!</h3>
+<h4 align="left">Hi 👋! My name is Spyros Briakos and I'm a Software Engineer from Greece, who's passionate about ML/AI!</h4>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">Tech Stack</h3>
+<h4 align="left">Tech Stack</h4>
 
 ###
 
