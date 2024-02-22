@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Spyros Briakos</h1>
-<h3 align="center">A Software Engineer from Greece, who's passionate about ML/AI!</h3>
+<h1 left="center">Hi 👋, I'm Spyros Briakos</h1>
+<h3 left="center">A Software Engineer from Greece, who's passionate about ML/AI!</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning about **LLMs and RAG techniques**.
   
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">Tech Stack:</h3>
 
 ###
 
