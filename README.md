@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Spyros Briakos</h1>
-<h3 align="left">A Software Engineer from Greece, who's passionate about ML/AI!</h3>
+<h1 align="center">Hi 👋, I'm Spyros Briakos</h1>
+<h3 align="center">A Software Engineer from Greece, who's passionate about ML/AI!</h3>
 
 ###
 
