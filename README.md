@@ -1,4 +1,5 @@
-<h4 align="left">Hi 👋! My name is Spyros Briakos and I'm a Software Engineer from Greece, who's passionate about ML/AI!</h4>
+<h1 align="center">Hi 👋, I'm Spyros Briakos</h1>
+<h3 align="center">A Software Engineer from Greece, who's passionate about ML/AI!</h3>
 
 ###
 
@@ -11,7 +12,7 @@
 
 - 🔭 I’m currently working on **Mitel** as a Software Engineer, previously I was part of Atos@Greece.
 
-- 🌱 I’m currently learning about **LLM and RAG techniques**.
+- 🌱 I’m currently learning about **LLMs and RAG techniques**.
   
 <h3 align="left">Tech Stack</h3>
 
