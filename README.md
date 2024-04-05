@@ -10,7 +10,7 @@
 
 ###
 
-- 🔭 I’m currently working on **Mitel** as a Software Engineer, previously I was part of Atos@Greece.
+- 🔭 I’m currently working on **Satori Analytics** as an AI Engineer, previously I was part of Atos@Greece.
 
 - 🌱 I’m currently learning about **LLMs and RAG technique**.
   
