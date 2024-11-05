@@ -10,9 +10,9 @@
 
 ###
 
-- 🔭 I’m was part of **Satori Analytics** working as an AI Engineer, previously I was part of Atos@Greece.
+- 🔭 I’m was part of **Satori Analytics** working as an AI Engineer, previously I was part of **Atos** having a role of Software Engineer.
 
-- 🌱 I’m currently learning about **LLMs and RAG technique**.
+- 🌱 I’m currently extending my knowledge about **LLMs and RAG technique**.
   
 <h3 align="left">Tech Stack</h3>
 
