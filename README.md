@@ -1,5 +1,5 @@
 <h1 left="center">Hi 👋, I'm Spyros Briakos</h1>
-<h3 left="center">A Software Engineer from Greece, who's passionate about ML/AI!</h3>
+<h3 left="center">A Software Engineer from Greece, who's passionate about AI, ML and NLP!</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-- 🔭 I’m currently working on **Satori Analytics** as an AI Engineer, previously I was part of Atos@Greece.
+- 🔭 I’m was part of **Satori Analytics** working as an AI Engineer, previously I was part of Atos@Greece.
 
 - 🌱 I’m currently learning about **LLMs and RAG technique**.
   
