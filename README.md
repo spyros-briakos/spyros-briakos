@@ -3,16 +3,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spyros-briakos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spyros-briakos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 - 🔭 I was part of **Satori Analytics** working as an AI Engineer and previously I was part of **Atos** having a role of Software Engineer.
 
-- 🌱 I’m currently extending my knowledge about **LLMs and RAG technique**.
+- 🌱 I’m currently extending with HumanBound my knowledge about **LLMs**.
   
 <h3 align="left">Tech Stack</h3>
 
